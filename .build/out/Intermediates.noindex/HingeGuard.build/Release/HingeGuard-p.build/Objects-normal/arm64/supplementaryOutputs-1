@@ -1,0 +1,11 @@
+{
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/Accelerometer.swift" : {
+    "abi-baseline-json" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard.abi.json",
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary.dia",
+    "swiftdoc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard.swiftdoc",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard.swiftmodule",
+    "swiftsourceinfo" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard.swiftsourceinfo"
+  }
+}

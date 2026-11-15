@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'HingeGuard-product' in project 'HingeGuard'
+Target 'HingeGuard-product' in project 'HingeGuard' (no dependencies)

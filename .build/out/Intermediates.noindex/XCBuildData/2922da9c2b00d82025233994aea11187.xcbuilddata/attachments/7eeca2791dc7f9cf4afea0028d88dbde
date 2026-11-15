@@ -1,0 +1,119 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary.dia",
+    "emit-module-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary-emit-module.dia",
+    "pch" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary.swiftdeps"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/Accelerometer.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Accelerometer.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Accelerometer.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Accelerometer.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Accelerometer.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Accelerometer.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Accelerometer.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Accelerometer.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Accelerometer~partial.swiftmodule"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/AlarmCard.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmCard.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmCard.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmCard.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmCard.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmCard.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmCard.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmCard.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmCard~partial.swiftmodule"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/AlarmController.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmController.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmController.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmController.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmController.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmController.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmController.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmController.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AlarmController~partial.swiftmodule"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/AppDelegate.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/Authenticator.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Authenticator.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Authenticator.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Authenticator.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Authenticator.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Authenticator.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Authenticator.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Authenticator.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Authenticator~partial.swiftmodule"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/DashboardView.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/DashboardView.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/DashboardView.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/DashboardView~partial.swiftmodule"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/LidAngleSensor.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor~partial.swiftmodule"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/PowerMonitor.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor~partial.swiftmodule"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/SensorMonitor.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor~partial.swiftmodule"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/Siren.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Siren.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Siren.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Siren.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Siren.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Siren.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Siren.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Siren.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/Siren~partial.swiftmodule"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/main.swift" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/main.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/main.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/main.dia",
+    "index-unit-output-path" : "/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/main.o",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/main.swiftdeps",
+    "swiftmodule" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Debug/HingeGuard-p.build/Objects-normal/arm64/main~partial.swiftmodule"
+  }
+}

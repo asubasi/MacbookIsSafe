@@ -1,0 +1,66 @@
+{
+  "" : {
+    "const-values" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary.swiftconstvalues",
+    "dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary.d",
+    "diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary.dia",
+    "emit-module-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary-emit-module.dia",
+    "pch" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/HingeGuard-primary.swiftdeps"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/Accelerometer.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/Accelerometer.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/Accelerometer.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/Accelerometer.o"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/AlarmCard.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/AlarmCard.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/AlarmCard.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/AlarmCard.o"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/AlarmController.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/AlarmController.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/AlarmController.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/AlarmController.o"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/AppDelegate.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/Authenticator.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/Authenticator.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/Authenticator.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/Authenticator.o"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/DashboardView.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/DashboardView.o"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/LidAngleSensor.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/LidAngleSensor.o"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/PowerMonitor.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/PowerMonitor.o"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/SensorMonitor.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/SensorMonitor.o"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/Siren.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/Siren.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/Siren.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/Siren.o"
+  },
+  "/Users/ahmetsubasi/Desktop/HingeGuard/Sources/HingeGuard/main.swift" : {
+    "index-unit-output-path" : "/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/ahmetsubasi/Desktop/HingeGuard/.build/out/Intermediates.noindex/HingeGuard.build/Release/HingeGuard-p.build/Objects-normal/arm64/main.o"
+  }
+}
